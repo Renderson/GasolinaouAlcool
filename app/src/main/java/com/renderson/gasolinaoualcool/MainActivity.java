@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText precoGasolina;
     private Button botaoVerificar;
     private TextView resultadoText;
-    private TextView resultadoTex;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
