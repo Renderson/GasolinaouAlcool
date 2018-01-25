@@ -79,6 +79,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/botao_texto_verificar"
+        android:textColor="#415c00"
         android:id="@+id/botaoVerificarId"
         android:layout_marginTop="29dp"
         android:padding="@dimen/botao_padding"
